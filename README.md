@@ -1,4 +1,5 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+![what-is-coding](https://user-images.githubusercontent.com/69174836/151214769-19485264-4bbb-4c38-8559-22531251c30e.png)
+
 
 <h1 align="center">Hi 👋, I'm Carryl Louise</h1>
 <h3 align="center">A passionate full stack developer from Philippines.</h3>
