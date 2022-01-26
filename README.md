@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Carryl Louise</h1>
 <h3 align="center">A passionate full stack developer from Philippines.</h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/sultan-alrefaei-programmer-office-gif-13165216"> 
 
-<p align="left"> <img src="https://tenor.com/3o2m.gif" /> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1518535/screenshots/7528356/media/e11e5b8aaa2187e4e1a7c3da0553208e.gif"> 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=carryl-louisexxi&label=Profile%20views&color=0e75b6&style=flat" alt="carryl-louisexxi" /> </p>
+
+- 🔭 I’m currently working on **Web Application Development**
 
 - 🌱 I’m currently learning **Java Spring Boot**
 
@@ -12,6 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://fb.com/carryl louise dela torre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="carryl louise dela torre" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
