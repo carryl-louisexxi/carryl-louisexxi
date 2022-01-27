@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Carryl Louise</h1>
-<h3 align="center">A passionate full stack developer from Philippines.</h3>
+<h3 align="center">A passionate developer from Philippines.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> 
 
@@ -12,7 +12,9 @@
 
 - 🌱 I’m currently learning **Java Spring Boot**
 
-- 💬 Ask me about **MERN, DBMS, Android, Machine Learning**
+- 📝 I’m deeply interested in **Artificial Intelligence**
+
+- 💬 Ask me about **MERN, DBMS, Android, Artificial Intelligence**
 
 - 📫 How to reach me **wuyilouise@gmail.com**
 
