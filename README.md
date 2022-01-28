@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Carryl Louise</h1>
-<h3 align="center">A passionate developer from Philippines.</h3>
+<h3 align="center">Aspiring developer from Philippines.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> 
 
@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Web Scraper App**
 
-- 🌱 I’m currently learning **Java Spring Boot**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 📝 I’m deeply interested in **Artificial Intelligence**
 
