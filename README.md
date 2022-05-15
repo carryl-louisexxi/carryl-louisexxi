@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **MERN, DBMS, Android, Artificial Intelligence**
 
-- 📫 How to reach me **wuyilouise@gmail.com**
+- 📫 How to reach me **cjdelatorre1@up.edu.ph**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
